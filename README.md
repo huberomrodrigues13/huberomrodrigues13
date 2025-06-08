@@ -1,5 +1,5 @@
 # About Me
-- 👋 Hi, I’m @huberomrodrigues13
+- 👋 Hi, I’m Huberom!
 - 👀 I’m interested in any software development, but mostly back-end 
 - 🌱 I’m currently learning improving my software dev skills
 - 💞️ I’m looking to collaborate on my projects to improve my capability in developing apps and software 
