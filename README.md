@@ -1,11 +1,16 @@
 # About Me
-- 👋 Hi, I’m Huberom!
-- 👀 I’m interested in any software development, but mostly back-end 
-- 🌱 I’m currently learning improving my software dev skills
-- 💞️ I’m looking to collaborate on my projects to improve my capability in developing apps and software 
-- 📫 How to reach me: huberomrodrigues13@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I fell in love with programming when taking a python course as the last class before getting my associates degree!
+
+-  Hi! Im **Huberom Rodrigues** 👋
+- An aspiring **backend software dev** who loves learning backend systems and applications!
+
+-While currently more focused on **Python**, I also have experience with **C#** and **C++** as well!
+- I’m actively improving my dev skills and looking for more opportunities to grow in any real-world projects.
+
+## I know
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 
 <!---
 huberomrodrigues13/huberomrodrigues13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
